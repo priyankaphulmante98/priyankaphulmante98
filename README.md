@@ -21,21 +21,6 @@
 <br>
 
 
-
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/priyankaphulmante98">
-        <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanka phulmante" />
-    </a>
-     <a href="https://github.com/priyankaphulamnte98?tab=followers">
-        <img src="https://img.shields.io/github/followers/priyankaphulmante98?label=Followers&style=social" alt="followers-count">
-    </a>
-</p>
-<br>
-
-
-
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
