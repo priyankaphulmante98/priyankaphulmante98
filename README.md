@@ -77,7 +77,7 @@
 
 ## 📊 My Github Stats
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
 <a href="https://github.com/priyankaphulmante98?tab=followers"><img src="https://img.shields.io/github/followers/priyankaphulmante98?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
@@ -89,19 +89,20 @@
 </p>
 
 <br/>
-<hr/>
+
+
+
+ <h1>ℹ️ &nbsp;Github Info</h1>
+ <hr/>
  
-<p align="left">
+<p align="">
     <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyanka phulmante's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
- <h1>ℹ️ &nbsp;Github Info</h1>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankaphulmante98&theme=github_dark" alt="Priyanka's" align = "center"/></p>
+<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankaphulmante98&theme=github_dark" alt="Priyanka's" align = "center"/></p>
 </details>
 
 <details>
@@ -111,7 +112,7 @@
 
   <details>
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
+<p align="left"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
 </details>
 
 
