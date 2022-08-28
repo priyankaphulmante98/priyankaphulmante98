@@ -74,13 +74,14 @@
 
 
 
+
 ## 📊 My Github Stats
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
 <a href="https://github.com/priyankaphulmante98?tab=followers"><img src="https://img.shields.io/github/followers/priyankaphulmante98?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-
   <br/>
+  
 
 
 <p>
@@ -88,6 +89,13 @@
 </p>
 
 <br/>
+<hr/>
+ 
+<p align="left">
+    <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyanka phulmante's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
  <h1>ℹ️ &nbsp;Github Info</h1>
