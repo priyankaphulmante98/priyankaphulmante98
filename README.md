@@ -68,6 +68,8 @@
     <a title="priyankaphulmante98@gmail.com" href="mailto:ypraveen341@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="priyankaphulmante98@gmail.com"/>
     </a>
+    <a href="https://drive.google.com/file/d/1mJexmfVl4pHSe99b__ghNn7N73WbNoBE/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://drive.google.com/file/d/1mJexmfVl4pHSe99b__ghNn7N73WbNoBE/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
 </p>
 <br>
 
