@@ -99,19 +99,18 @@
  <h1>ℹ️ &nbsp;Github Info</h1>
  <hr/>
  
-<p align="">
+<p align="center">
     <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyanka phulmante's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+
+
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankaphulmante98&theme=github_dark" alt="Priyanka's" align = "center"/></p>
-</details>
-
-<details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
   <details>
