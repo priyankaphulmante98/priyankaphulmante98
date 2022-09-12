@@ -108,15 +108,15 @@
 <p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 
-<details>	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankaphulmante98&theme=github_dark" alt="Priyanka's" align = "center"/></p>
-</details>
 
-  <details>
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankaphulmante98&theme=github_dark" alt="Priyanka's" align = "center"/></p>
+
+
+
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="left"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
-</details>
+<p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
+
 
 
  <hr>
