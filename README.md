@@ -118,6 +118,9 @@
 <p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
 
 
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
 
  <hr>
 <p align="center">
