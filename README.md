@@ -55,7 +55,7 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+<h2><i> Let's Connect</i></h2>
 
 
 <p align="left">
@@ -69,6 +69,14 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="priyankaphulmante98@gmail.com"/>
     </a>
+     <a "href="https://leetcode.com/priyankaphulmante98/">
+   <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
+   </a>
+
+
+<a href="https://www.hackerrank.com/priyankaphulman1">
+  <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
+</a>
     <a href="https://preeminent-queijadas-708b2e.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
@@ -82,7 +90,7 @@
 <!------------------------------------- githuib status part -------------------------------->
 
 
-## 📊 My Github Stats
+<h2> 📊 My Github Stats</h2>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
 <a href="https://github.com/priyankaphulmante98?tab=followers"><img src="https://img.shields.io/github/followers/priyankaphulmante98?label=Followers&style=social" alt="GitHub Badge"></a>
