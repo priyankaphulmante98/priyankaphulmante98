@@ -69,7 +69,7 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="priyankaphulmante98@gmail.com"/>
     </a>
-     <a "href="https://leetcode.com/priyankaphulmante98/">
+     <a href="https://leetcode.com/priyankaphulmante98">
    <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
    </a>
 
