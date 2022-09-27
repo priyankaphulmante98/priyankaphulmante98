@@ -48,6 +48,14 @@
    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+     <a href="https://leetcode.com/priyankaphulmante98">
+   <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
+   </a>
+
+
+<a href="https://www.hackerrank.com/priyankaphulman1">
+  <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
+</a>
  </p>
 
 <br>
@@ -69,18 +77,10 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="priyankaphulmante98@gmail.com"/>
     </a>
-     <a href="https://leetcode.com/priyankaphulmante98">
-   <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
-   </a>
-
-
-<a href="https://www.hackerrank.com/priyankaphulman1">
-  <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
-</a>
     <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
-<a href="https://drive.google.com/file/d/1EeiotrsU1vT9InXGJHJbuQoMY_giBjt-/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+<a href="https://drive.google.com/file/d/15NHJwhjWhLLx6X-aphndCURbaTcKip_z/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
 </a>
 </p>
 <br>
