@@ -21,6 +21,7 @@
 <br>
 
 
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Skills</i></h2>
@@ -49,14 +50,10 @@
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
      <a href="https://leetcode.com/priyankaphulmante98">
-   <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
-   </a>
-
-
-<a href="https://www.hackerrank.com/priyankaphulman1">
-  <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
-</a>
- </p>
+    <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" /></a>&nbsp&nbsp
+    <a href="https://www.hackerrank.com/priyankaphulman1">
+      <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" /></a>
+     </p>
 
 <br>
 
