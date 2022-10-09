@@ -4,22 +4,35 @@
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Priyanka phulmante
-   
+    <h3 align="center">A passionate Web Developer from India</h3>
 </h1>
 
 
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3>
-    <i>- I'm a Front-End-web-Developer skilled in Tech stack and focuses on writing clean, elegant and efficient code.</i>
-</h3>
-
-<h3>
-    <i>- Currently Studying in Masai School To become a Full-Stack-Web-Developer</i>
-</h3>
+<p>Currently Studying in Masai School To become a Full-Stack-Web-Developer and I also pursuving PGDM in information technology from MIT School of managment, Pune. 
+     I have completed my graduation Bsc in computer Science from Dayanand Science college, latur. I pushed myself into MERN stack development which is an amazing       technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
 <br>
 
+<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
+
+
+- 🔭 I’m currently working on *MERN Stack*
+
+- 🌱 I’m currently learning *React, Redux, MongoDB, Express*
+
+- 👨‍💻 All of my projects are available at <a href="https://bespoke-caramel-b3e0ef.netlify.app" target="_blank">PORTFOLIO</a>
+
+- 💬 Ask me about *MERN stack*
+
+- 📫 How to reach me *priyankaphulmante98@gmail.com*
+
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank">RESUME</a>
+
+- ⚡ Fun fact - *I am creative person and I love nature!*
+
+<br>
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
