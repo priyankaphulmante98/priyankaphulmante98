@@ -35,21 +35,23 @@
 <br>
 <!-----------------------------------------------technical tools---------------------------------------->
 </br>
-## 🚀 Languages and Tools:
+<h3> 🚀 Languages and Tools:</h3>
+<hr />
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-   <img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
+<br/>
+<br/>
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
@@ -79,7 +81,6 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <div align="center">
 <h2><i> Let's Connect</i></h2>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/priyanka-phulmante-181633191/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/priyanka-phulmante-181633191/" />
@@ -94,20 +95,20 @@
     <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
-<a href="https://drive.google.com/file/d/15NHJwhjWhLLx6X-aphndCURbaTcKip_z/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+<a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
 </a>
 </p>
 </div>
 <br>
 
-
+<hr />
 
 <!------------------------------------- githuib status part -------------------------------->
 
 
-<h2> 📊 My Github Stats</h2>
+<h3 align="left> 📊 My Github Stats</h3>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
 <a href="https://github.com/priyankaphulmante98?tab=followers"><img src="https://img.shields.io/github/followers/priyankaphulmante98?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
@@ -115,18 +116,18 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyankaphulmante98&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="priyankaphulmante98" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaphulmante98&layout=compact&border_radius=0" alt="priyankaphulmante98" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankaphulmante98&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="priyankaphulmante98" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaphulmante98&layout=compact&border_radius=0" alt="priyankaphulmante98" height="139" />
 </p>
 
 <br/>
 
 
-
- <h1>ℹ️ &nbsp;Github Info</h1>
+ <div align="left">
+ <h3>ℹ️ &nbsp;Github Info</h3>
  <hr/>
  <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="left">
+<p align="center">
     <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyanka phulmante's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -142,6 +143,7 @@
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
 </details>
+ </div>
 
 <!----------------------------------------------------- thanks-part ------------------------------------------------------->
 
