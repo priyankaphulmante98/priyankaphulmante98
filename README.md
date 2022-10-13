@@ -6,8 +6,8 @@
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Priyanka phulmante
-    <h3 align="center">A passionate Web Developer from India</h3>
-</h1>
+    <h3 align="center" color="orange">A passionate Web Developer from India</h3>
+</h1> 
 
 
 
@@ -24,13 +24,13 @@
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-- 👨‍💻 All of my projects are available at <a href="https://bespoke-caramel-b3e0ef.netlify.app" target="_blank">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <b><a href="https://bespoke-caramel-b3e0ef.netlify.app" target="_blank">PORTFOLIO</a></b>
 
 - 💬 Ask me about *MERN stack*
 
-- 📫 How to reach me *priyankaphulmante98@gmail.com*
+- 📫 How to reach me <b>*priyankaphulmante98@gmail.com*</b>
 
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank">RESUME</a>
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
 
