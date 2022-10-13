@@ -6,7 +6,7 @@
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Priyanka phulmante
-    <h3 align="center" color="orange">A passionate Web Developer from India</h3>
+    <h3 color="red" align="center">A passionate Web Developer from India</h3>
 </h1> 
 
 
