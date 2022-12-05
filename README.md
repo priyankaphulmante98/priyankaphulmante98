@@ -31,7 +31,7 @@
 
 - 📫 How to reach me <b>*priyankaphulmante98@gmail.com*</b>
 
-- 📄 Know about my work also in <b><a href="https://drive.google.com/file/d/1Zbm2brreRGIcMkK2IWoJS7AiBSwJkIyv/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1Zbm2brreRGIcMkK2IWoJS7AiBSwJkIyv/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love swiming!*
 
