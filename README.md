@@ -134,12 +134,12 @@
  <hr/>
  	
 
- <!-- 
+
 <p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 <p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
 
-  -->
+
 
  </div>
 
