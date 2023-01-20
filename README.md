@@ -31,7 +31,7 @@
 
 - 📫 How to reach me <b>*priyankaphulmante98@gmail.com*</b>
 
-- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1Zbm2brreRGIcMkK2IWoJS7AiBSwJkIyv/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love swiming!*
 
@@ -103,7 +103,7 @@
     <a href="https://priyankaphulmante98.github.io/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
-<a href="https://drive.google.com/file/d/1Zbm2brreRGIcMkK2IWoJS7AiBSwJkIyv/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+<a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
 </a>
 </p>
 </div>
