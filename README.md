@@ -12,7 +12,7 @@
 
 
 
-<!----------------------------------- About Section ------------------------------------>
+<!----------------------------------- About Section ---------------------------->
 
 <p>Currently Studying in Masai School To become a Full-Stack-Web-Developer and I also pursuing PGDM in information technology from MIT School of managment, Pune. 
      I have completed my graduation Bsc in computer Science from Dayanand Science college, latur. I pushed myself into MERN stack development which is an amazing       technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
