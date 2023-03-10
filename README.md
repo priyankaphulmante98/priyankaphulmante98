@@ -132,10 +132,23 @@
  <div align="left">
  <h3>ℹ️ &nbsp;Github Info</h3>
  <hr/>
- 	
+ <!--     <p align="center">      
+  <a href="https://github.com/priyankaphulmante98/github-readme-stats"><img alt="priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaphulmante98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>       -->
+     <br/>
+   <p align="center">
+    <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyankaphulmante98's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>                                                                                                                                              
 
+  <br/>
+     <p align="center" padding="1rem">                                                                                                 
+    <a href="https://github-stats-alpha.vercel.app/api?username=priyankaphulmante1998"><img alt="priyankaphulmante98's Github Stats" src="https://github-stats-alpha.vercel.app/api?username=priyankaphulmante98" /></a>
+    </p>                        
 
-<p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- 
+<p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
 
 <p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
 
