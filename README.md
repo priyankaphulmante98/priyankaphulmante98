@@ -23,8 +23,6 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 - 🔭 I’m currently working on *MERN Stack*
 
-- 🌱 I’m currently learning *React, Redux, MongoDB, Express*
-
 - 👨‍💻 All of my projects are available at <b><a href="https://priyankaphulmante98.github.io" target="_blank">PORTFOLIO</a></b>
 
 - 💬 Ask me about *MERN stack*
