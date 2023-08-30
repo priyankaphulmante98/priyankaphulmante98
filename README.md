@@ -13,8 +13,9 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>Currently Studying in Masai School To become a Full-Stack-Web-Developer and I also pursuing PGDM in information technology from MIT School of managment, Pune. 
-     I have completed my graduation Bsc in computer Science from Dayanand Science college, latur. I pushed myself into MERN stack development which is an amazing       technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
+<p>Hi, My name is Priyanka Phulmante. I’m from Pune, Maharashtra. I am working as Frontend Developer at Fundflo, Banglore.
+talking about my education Details I have completed my post graduation (MBA/PGDM) in Inforamtion Technology from MIT School Of Managment Pune and I have  completed my graduation Bachelor in computer science from Dayanand Science College, Latur. and also i have I done  full-stack web development course at Masai School, bengalore.
+I am good in frontend and backend technology. I worked on frontend technical stack Like  html css javascript, react, redux and angular.js, typescript and used external css library like chakra-UI , Bootstrap, Material-Ui and I familiar with  backend Technologies like Node.js, Express.js and NoSql mongodb database I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
 <br>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
