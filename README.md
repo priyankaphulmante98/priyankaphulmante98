@@ -13,9 +13,27 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>Hi, My name is Priyanka Phulmante. I’m from Pune, Maharashtra. I am working as Frontend Developer at Fundflo, Banglore.
-talking about my education Details I have completed my post graduation (MBA/PGDM) in Inforamtion Technology from MIT School Of Managment Pune and I have  completed my graduation Bachelor in computer science from Dayanand Science College, Latur. and also i have I done  full-stack web development course at Masai School, bengalore.
-I am good in frontend and backend technology. I worked on frontend technical stack Like  html css javascript, react, redux and angular.js, typescript and used external css library like chakra-UI , Bootstrap, Material-Ui and I familiar with  backend Technologies like Node.js, Express.js and NoSql mongodb database I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
+<p>👋 Hello! I'm Priyanka, a passionate Full Stack MERN Developer currently contributing to the success of projects at Incedo.
+
+🛠️ Tech Stack:
+I specialize in the MERN stack, leveraging MongoDB, Express.js, React.js, and Node.js. My toolkit also includes HTML, SCSS, CSS, jQuery, TypeScript, Material-UI, Chakra-UI, Bootstrap CSS library, and more.
+
+🚀 Experience:
+
+Full Stack Developer | Incedo 
+
+Collaborating with cross-functional teams to craft responsive web applications using a robust MERN tech stack.
+Designing dynamic and interactive user interfaces with proficiency in React.js, Angular.js, and TypeScript.
+Ensuring code quality through the implementation of clean, efficient, and maintainable coding practices aligned with industry standards.
+Seamless integration of RESTful APIs using technologies such as Axios, Fetch, HTTP methods, and various APIs.
+Deploying applications flawlessly with Jenkins CI/CD for continuous integration and delivery.
+Task management and project progress tracking with Jira, ensuring timely deliverables.
+Close collaboration with UX/UI designers to translate wireframes and mockups into pixel-perfect web pages.
+Version control expertise with Git, collaborating seamlessly within teams using GitHub for efficient code management.
+Proficient in Node.js, Express.js, and MongoDB databases, with a primary focus on designing captivating user interfaces and API integration.
+
+💬 Let's Connect!
+I'm enthusiastic about connecting with like-minded professionals, discussing innovative tech ideas, and exploring new opportunities in the ever-evolving realm of full-stack MERN development.</p>
 <br>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
