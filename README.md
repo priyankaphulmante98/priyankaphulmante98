@@ -22,7 +22,7 @@ I specialize in the MERN stack, leveraging MongoDB, Express.js, React.js, and No
 
 Full Stack Developer | Incedo 
 
-Collaborating with cross-functional teams to craft responsive web applications using a robust MERN tech stack.
+Collaborating with cross-functional teams to craft responsive web applications using a robust Full Stack Development.
 Designing dynamic and interactive user interfaces with proficiency in React.js, Angular.js, and TypeScript.
 Ensuring code quality through the implementation of clean, efficient, and maintainable coding practices aligned with industry standards.
 Seamless integration of RESTful APIs using technologies such as Axios, Fetch, HTTP methods, and various APIs.
@@ -33,7 +33,7 @@ Version control expertise with Git, collaborating seamlessly within teams using 
 Proficient in Node.js, Express.js, and MongoDB databases, with a primary focus on designing captivating user interfaces and API integration.
 
 💬 Let's Connect!
-I'm enthusiastic about connecting with like-minded professionals, discussing innovative tech ideas, and exploring new opportunities in the ever-evolving realm of full-stack MERN development.</p>
+I'm enthusiastic about connecting with like-minded professionals, discussing innovative tech ideas, and exploring new opportunities in the ever-evolving realm of full-stack development.</p>
 <br>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
@@ -43,7 +43,7 @@ I'm enthusiastic about connecting with like-minded professionals, discussing inn
 
 - 👨‍💻 All of my projects are available at <b><a href="https://priyankaphulmante98.github.io" target="_blank">PORTFOLIO</a></b>
 
-- 💬 Ask me about *MERN stack*
+- 💬 Ask me about *MERN & MEAN stack*
 
 - 📫 How to reach me <b>*priyankaphulmante98@gmail.com*</b>
 
