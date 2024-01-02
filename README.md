@@ -47,7 +47,7 @@ I'm enthusiastic about connecting with like-minded professionals, discussing inn
 
 - 📫 How to reach me <b>*priyankaphulmante98@gmail.com*</b>
 
-- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1cx4XowZ0UqfVmirniFw5mMHC-_29b0sT/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love swiming!*
 
