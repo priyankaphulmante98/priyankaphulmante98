@@ -13,7 +13,7 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>👋 Hello! I'm Priyanka, a passionate Full Stack MERN Developer currently contributing to the success of projects at Incedo.
+<p>👋 Hello! I'm Priyanka, a passionate Full Stack MERN Developer currently contributing to the success of projects at Fundflo
 
 🛠️ Tech Stack:
 I specialize in the MERN stack, leveraging MongoDB, Express.js, React.js, and Node.js. My toolkit also includes HTML, SCSS, CSS, jQuery, TypeScript, Material-UI, Chakra-UI, Bootstrap CSS library, and more.
