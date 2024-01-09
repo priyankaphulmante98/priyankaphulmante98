@@ -45,7 +45,7 @@ I'm enthusiastic about connecting with like-minded professionals, discussing inn
 
 - 💬 Ask me about *MERN & MEAN stack*
 
-- 📫 How to reach me <b>*priyankaphulmante98@gmail.com*</b>
+- 📫 How to reach me <b>*priyankaphulmante@gmail.com*</b>
 
 - 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1cx4XowZ0UqfVmirniFw5mMHC-_29b0sT/view?usp=sharing" target="_blank">RESUME</a></b>
 
