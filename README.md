@@ -20,7 +20,7 @@ I specialize in the MERN stack, leveraging MongoDB, Express.js, React.js, and No
 
 🚀 Experience:
 
-Full Stack Developer | Incedo 
+Full Stack Developer 
 
 Collaborating with cross-functional teams to craft responsive web applications using a robust Full Stack Development.
 Designing dynamic and interactive user interfaces with proficiency in React.js, Angular.js, and TypeScript.
