@@ -13,7 +13,7 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>👋 Hello! I'm Priyanka, a passionate Full Stack MERN Developer currently contributing to the success of projects at Fundflo
+<p>👋 Hello! I'm Priyanka, a passionate Full Stack MERN Developer currently contributing to the success of projects at Tech Narayana Software Pvt. ltd.
 
 🛠️ Tech Stack:
 I specialize in the MERN stack, leveraging MongoDB, Express.js, React.js, and Node.js. My toolkit also includes HTML, SCSS, CSS, jQuery, TypeScript, Material-UI, Chakra-UI, Bootstrap CSS library, and more.
@@ -41,15 +41,11 @@ I'm enthusiastic about connecting with like-minded professionals, discussing inn
 
 - 🔭 I’m currently working on *MERN Stack*
 
-- 👨‍💻 All of my projects are available at <b><a href="https://priyankaphulmante98.github.io" target="_blank">PORTFOLIO</a></b>
-
 - 💬 Ask me about *MERN & MEAN stack*
 
 - 📫 How to reach me <b>*priyankaphulmante@gmail.com*</b>
 
-- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1cx4XowZ0UqfVmirniFw5mMHC-_29b0sT/view?usp=sharing" target="_blank">RESUME</a></b>
-
-- ⚡ Fun fact - *I am creative person and I love swiming!*
+- ⚡ Fun fact - *I am a creative person and I love swimming!*
 
 <br>
 <!-----------------------------------------------technical tools---------------------------------------->
@@ -113,14 +109,12 @@ I'm enthusiastic about connecting with like-minded professionals, discussing inn
     <a href="https://twitter.com/priyankaphulma1">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/priyankaphulma1" />
     </a>
-    <a title="priyankaphulmante98@gmail.com" href="priyankaphulmante98@gmail.com">
+    <a title="priyankaphulmante@gmail.com" href="priyankaphulmante@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-           alt="priyankaphulmante98@gmail.com"/>
+           alt="priyankaphulmante@gmail.com"/>
     </a>
-    <a href="https://priyankaphulmante98.github.io/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
-          alt="portfolio"/>
-    </a>
-<a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+ 
+
 </a>
 </p>
 </div>
